@@ -1,1 +1,1 @@
-JavaScript CRUD operations - Create, Read, Update, Delete
+JavaScript CRUD operations
